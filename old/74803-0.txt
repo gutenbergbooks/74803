@@ -1,4 +1,6 @@
+﻿
 *** START OF THE PROJECT GUTENBERG EBOOK 74803 ***
+
 language: Finnish
 
 
@@ -15,6 +17,7 @@ Alexandre Dumas
 Ranskankielestä suomentanut
 
 A. Somersalo
+
 
 
 
@@ -56,9 +59,6 @@ SISÄLLYS:
    XXV. Lorin
   XXVI. Edellisen jatkoa
  XXVII. Kaksintaistelu
-XXVIII. Kuolleiden sali
-  XXIX. Miksi Lorin oli lähtenyt
-   XXX. Eläköön Simon!
 
 
 
@@ -10396,6 +10396,10 @@ enää ole vapautta. Kautta kunniani, eläköön Simon, joka yhdisti meidät
 kaikki kolme!"
 
 Ja jalon nuoren miehen pää putosi Mauricen ja Genevièven päiden viereen.
+
+
+
+
 
 
 *** END OF THE PROJECT GUTENBERG EBOOK 74803 ***
